@@ -1,4 +1,3 @@
-Here's the updated GitHub profile README:
 Hello! 👋 I'm Douglas
 📊 Data Analyst in Training
 
