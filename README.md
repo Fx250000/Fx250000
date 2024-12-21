@@ -41,3 +41,4 @@ I’m currently learning advanced data analysis techniques, including:
 🤝 Let’s Connect
 
     GitHub: Fx250000
+    Codeium: [![streak](https://codeium.com/badges/v2/user/blatantly-giving-scad-38683/streak)](https://codeium.com/profile/blatantly-giving-scad-38683)
